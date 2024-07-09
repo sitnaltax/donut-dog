@@ -7,7 +7,6 @@ by Rob Herman
 Donut Dog is a game where you get to roll exciting dice and collect cute animals. Animals have two traits: **smallness**, represented by small numbers, and **cuddliness**, represented by large numbers. Many animals are both! This is a quick-playing game, and designed to be friendly to kids, but there are layers of interesting strategy and seasoned gamers will find plenty of interesting decisions to make.
 
 ## Components
-The PDF is <somwehere>
 * 2 sets of D&D dice per player (d4, d6, d8, d10, d12, d20). Many 10-sided dice mark the 10-sided die with a 0 on one face. Treat this as a 10)
 * The main deck of 42 Animal cards
 * 8 Fish cards, with a different back and not part of the main deck
@@ -39,6 +38,10 @@ In turn order, you decide how to use your dice. You **must** allocate 3 dice to 
 
 #### Collecting an Animal
 
+Let's say you want to collect this Cat:
+
+![Card](https://github.com/sitnaltax/donut-dog/blob/main/cat-card.png)
+
 * The **Blue Down Arrow** requires a die showing its number or **smaller**. So this Cat requires a die showing 3 or less.
 * The **Red Up Arrow** requires a die showing its number or **greater**. So this Cat requies another die showing 6 or more.
 * The **Gray Double Arrow** can be any die at all. So this Cat can use any die for its third die.
@@ -64,4 +67,4 @@ The game ends after 7 rounds. Players add up their scores:
 * 1 bonus VP for every different kind of animal
 * VP tokens are worth 1 VP each
 
-The player with the most points is the winner!
+The player with the most points is the winner! Ties are broken in favor of the player with the most different kinds of animal.
