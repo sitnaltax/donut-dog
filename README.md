@@ -38,7 +38,7 @@ In turn order, you decide how to use your dice. You **must** allocate 3 dice to 
 
 #### Collecting an Animal
 
-Let's say you want to collect this Cat:
+Let's say you want to collect this Cat, which is worth 2 points:
 
 ![Card](https://github.com/sitnaltax/donut-dog/blob/main/cat-card.png)
 
