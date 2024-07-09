@@ -1,5 +1,5 @@
 # Donut Dog
-A cute animals collecting card game that gives you an excuse to use your D&D dice. ~15 minutes, 2-4 players, ages 8+
+A cute animals collecting game that gives you an excuse to use your D&D dice. ~15 minutes, 2-4 players, ages 8+
 
 by Rob Herman
 
