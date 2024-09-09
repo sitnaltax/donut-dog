@@ -7,7 +7,7 @@ by Rob Herman
 Donut Dog is a game where you get to roll exciting dice and collect cute animals. Animals have two traits: **smallness**, represented by small numbers, and **cuddliness**, represented by large numbers. Many animals are both! This is a quick-playing game, and designed to be friendly to kids, but there are layers of interesting strategy and seasoned gamers will find plenty of interesting decisions to make.
 
 ## Components
-* 2 sets of D&D dice per player (d4, d6, d8, d10, d12, d20). Many 10-sided dice mark the 10-sided die with a 0 on one face. Treat this as a 10)
+* 2 sets of D&D dice per player (d4, d6, d8, d10, d12, d20). Many 10-sided dice mark the 10-sided die with a 0 on one face. Treat this as a 10.
 * The main deck of 42 Animal cards
 * 8 Fish cards, with a different back and not part of the main deck
 * Turn Order tokens, numbered 1-4
