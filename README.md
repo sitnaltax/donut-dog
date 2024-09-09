@@ -9,7 +9,7 @@ Donut Dog is a game where you get to roll exciting dice and collect cute animals
 ## Components
 * 2 sets of D&D dice per player (d4, d6, d8, d10, d12, d20). Many 10-sided dice mark the 10-sided die with a 0 on one face. Treat this as a 10.
 * The main deck of 42 Animal cards
-* 8 Fish cards, with a different back and not part of the main deck
+* 6 Fish cards, with a different back and not part of the main deck
 * Turn Order tokens, numbered 1-4
 * 4 Player Aid cards
 * VP, Reroll, and Magic tokens
