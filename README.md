@@ -31,7 +31,7 @@ The game takes place in 7 rounds. In each round, every player will roll 4 dice. 
 ### Round Setup
 1. Deal 2 Animal cards, plus 1 per player, out to the middle of the table. (So in a 4-player game, 6 cards are dealt.) These are the animals that are available for collection this round.
 2. Each player privately selects 4 dice and rolls them. There is no restriction in what dice they can choose amongst the 12 dice in their sets. You **may not** use Reroll and Magic tokens at this point.
-3. Small animals are fast! Each player puts forward their die showing the **highest** value. Of these, the **lowest** number gets to go first--give that player the Turn Order token labeled 1, the next player the Turn Order token labeled 2, etc. If two players are tied, look at the _next_ highest value among their dice, and so on.
+3. Small animals are fast! Each player puts forward their die showing the **highest** value. Of these, the **lowest** number gets to go first--give that player the Turn Order token labeled 1, the next player the Turn Order token labeled 2, etc. If two players are tied, look at the _next_ highest value among their dice, and so on. In the unusual event that two players have exactly identical faces, play odds/evens with a spare die to determine who goes first.
 
 ### Player Turns
 In turn order, you decide how to use your dice. You **must** allocate 3 dice to collecting an animal and the last die to collecting a bonus. Most animals require both small and large die rolls to collect. If you don't like your dice available, you may also use Reroll and Magic tokens at this point.
