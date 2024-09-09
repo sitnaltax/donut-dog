@@ -30,7 +30,7 @@ The game takes place in 7 rounds. In each round, every player will roll 4 dice. 
 
 ### Round Setup
 1. Deal 2 Animal cards, plus 1 per player, out to the middle of the table. (So in a 4-player game, 6 cards are dealt.) These are the animals that are available for collection this round.
-2. Each player privately selects 4 dice and rolls them. There is no restriction in what dice they can choose amongst the 12 dice in their sets. You **may** use Reroll and Magic tokens at this point.
+2. Each player privately selects 4 dice and rolls them. There is no restriction in what dice they can choose amongst the 12 dice in their sets. You **may not** use Reroll and Magic tokens at this point.
 3. Small animals are fast! Each player puts forward their die showing the **highest** value. Of these, the **lowest** number gets to go first--give that player the Turn Order token labeled 1, the next player the Turn Order token labeled 2, etc. If two players are tied, look at the _next_ highest value among their dice, and so on.
 
 ### Player Turns
@@ -51,7 +51,7 @@ Some animals have a light blue bar on top. This just calls attention to the fact
 Note that Fish are always available, so you can always use any 3 dice to collect a Fish.
 
 #### Spare Die
-With your spare die, you can choose and collect a bonus. Usually you will save it for a future turn, but you can use a Reroll or Magic token on the turn you get it. You can always choose a "lesser" bonus if you want it; so with a spare die of 11, you could take a Reroll token, a Magic token, or a VP. 
+With your spare die, you can choose and collect a bonus. You can always choose a "lesser" bonus if you want it; so with a spare die of 11, you could take a Reroll token, a Magic token, or a VP. 
 
 * With any die, you may claim a Reroll token. You can spend this to **reroll any number of your dice**. You may reroll one, some, or all of them--whatever you like. You have to keep the same dice, though--you can't swap them out.
 * With a die showing 7 or higher, you may claim a Magic token. You can spend this to **change any one of your dice to any result you want.** Just pick it up and put it down however you like.
